@@ -1,0 +1,95 @@
+{
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.fontSize": 16,
+	"editor.fontWeight": "500",
+	"editor.lineHeight": 1.5,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.cursorStyle": "block-outline",
+	"javascript.suggest.autoImports": true,
+	"symbols.hidesExplorerArrows": false,
+	"editor.fontFamily": "JetBrains Mono",
+	"editor.fontLigatures": true,
+	"workbench.editor.labelFormat": "short",
+	"explorer.compactFolders": false,
+	"editor.accessibilitySupport": "off",
+	"editor.formatOnSave": false,
+	"editor.minimap.enabled": false,
+	"editor.useTabStops": true,
+	"editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+	"apc.font.family": "Inter",
+	"editor.scrollbar.vertical": "hidden",
+	"workbench.iconTheme": "symbols",
+	"apc.activityBar": {
+		"position": "bottom",
+		"hideSettings": true,
+		"size": 48,
+		"itemMargin": 8,
+		"itemSize": 32
+	},
+	"apc.electron": {
+		"titleBarStyle": "hiddenInset",
+		"trafficLightPosition": {
+			"x": 11,
+			"y": 10
+		},
+		"opacity": 1,
+		"vibrancy": "dark",
+		"frame": false
+	},
+	"apc.stylesheet": {
+		".title-label > h2": "display: none",
+		".editor-actions": "display: none",
+		".nosidebar .inline-tabs-placeholder": "width: 75px",
+		".pane-header": "padding: 0 8px",
+		".pane-body": "padding: 8px",
+		".split-view-view:first-child .pane-header": "display: none !important;",
+		".monaco-list-row": "border-radius: 4px;",
+		".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+	},
+	// "[jsonc]": {
+	//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	"git.openRepositoryInParentFolders": "always",
+	// "[typescript]": {
+	//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	// "[javascript]": {
+	//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	// "[typescriptreact]": {
+	//   "editor.defaultFormatter": "esbenp.prettier-vscode"
+	// },
+	"git.autofetch": true,
+	"42header.email": "csilva-s@student.42sp.org.br",
+	"42header.username": "csilva-s",
+	"github.copilot.nextEditSuggestions.enabled": false,
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"github.copilot.enable": {
+		"*": false,
+		"plaintext": false,
+		"markdown": false,
+		"scminput": false
+	},
+	"workbench.colorTheme": "Tokyo Night Gogh",
+	"workbench.editor.pinnedTabSizing": "shrink",
+	"workbench.editor.tabSizingFixedMinWidth": 38,
+	"workbench.editor.tabSizingFixedMaxWidth": 100,
+	"workbench.editor.tabSizing": "fixed",
+	"workbench.editor.tabActionUnpinVisibility": false,
+	"workbench.editor.showTabs": "single",
+	"workbench.layoutControl.enabled": false,
+	"window.commandCenter": false,
+	"workbench.panel.showLabels": false,
+	"workbench.activityBar.location": "hidden",
+	"terminal.integrated.fontFamily": "monospace",
+	"workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+	"explorer.confirmDragAndDrop": false,
+	"makefile.configureOnOpen": true,
+	"chat.tools.terminal.autoApprove": {
+		"./push_swap": true
+	}
+}
